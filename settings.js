@@ -43,18 +43,7 @@ global.author = '‌' // Sticker Autor name
 global.sessionName = 'session'
 global.prefa = ['#','!','/',''] 
 global.sp = '🔵'
-// Alive massage ' ┏━━━ 𝑮𝜣𝑱𝜣 𝜝𝜣𝜯
-┠𝗡𝗔𝗡𝗬 ,, 🦄
-┠𝗛𝗢𝗦𝗧 ,, 🦄
-┠𝗖𝗛𝗘𝗘𝗠𝗦 ,, 🦄
-┠𝗛𝗔𝗖𝗞 ,, 🦄
-┠𝗣𝗥𝗢𝗚𝗥𝗔𝗠 ,, 🦄
-┠𝗛𝗘𝗬 ,, 🦄
-┠𝗠𝗘𝗡𝗨 ,, 🦄
-┠𝗛𝗢𝗪 𝗔𝗥𝗘 𝗬𝗢𝗨 ,, 🦄
-┠𝗜𝗠 𝗚𝗢𝗝𝗢 ,, 🦄
-┠𝗧𝗛𝗔𝗡𝗞 ,, 🦄
-┗━━━𝑮𝜣𝑱𝜣 𝜝𝜣𝜯'
+// Alive massage '
 global.alivelogo = `https://telegra.ph/-09-12-1049`
 global.alive =`┏━━━ 𝑮𝜣𝑱𝜣 𝜝𝜣𝜯
 ┠𝗡𝗔𝗡𝗬 ,, 🦄
@@ -73,16 +62,15 @@ Download song type .yt
 Thanks fro using...`
 // Welcome massage  ඔබට කැමති නම් මෙයට ඔබෙ welcome massage  එක යොදන්න 
 global.welcome = `
-🌀 Thanks Fro using sl zim bot
+ Thanks Fro using sl zim bot
 ✾ Some bugs fixing
-😼♥️
 `
 // වෙල්කම් එක යවන්න ඔනි නම් add කියලා දාන්න 
 global.sendwelcome = `add`
 // Good bye එක ඔනි නම් remove කියලා දාන්න
 global.sendgoodbye = `remove`
 // Caption 
-global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐄𝐥𝐢𝐬𝐚 𝐌𝐃`
+global.cap = `© 𝐆𝐞𝐧𝐞𝐫𝐚𝐭𝐞𝐝 𝐁𝐲 𝐄𝐳𝐢𝐨`
 global.mess = {
     success: '✅ Done!',
     admin: 'you must be admin to use this cmd!',
